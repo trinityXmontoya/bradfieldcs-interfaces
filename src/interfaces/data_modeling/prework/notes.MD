@@ -2,8 +2,6 @@
 
 Notes from http://www.bkent.net/Doc/simple5.htm
 
-
-
 __1.__ Each record of a given type must have the same # of fields.
 
 
@@ -41,3 +39,4 @@ recorded yet? Or perhaps the information is in another record?
 Re: "independence" -> `pet` and `car` have no direct connection and should therefore not be comingled in this one record type.
 
 __5.__ A record cannot be decomposed into smaller information-preserving records.
+
