@@ -44,7 +44,8 @@ Pros:
 
 Cons:
 - feels wrong. in the real world the action of loaning a book and returning a book are completely separate which means there
-could reasonably be separate information stored about them (ex. which librarian performed the loan vs accepted the return).
+could reasonably be separate information stored about them (ex. which location the book was loaned from vs which it was returned
+ to).
 
 __2.__
 
