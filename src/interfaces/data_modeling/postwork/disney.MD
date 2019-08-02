@@ -18,7 +18,7 @@ Issues:
 - friends as an array poses all sorts of issues w/r/t CRUDing them, esp as they are their own independent entities. goes again 5NF
 
 Could you develop a better model?
-![Disney Character ERD](./disney-erd.png)
+![Disney Character ERD](disney-character-ERD.png)
 
 thoughts:
 - you would have code-level enforcement of the species type
