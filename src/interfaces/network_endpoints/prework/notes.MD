@@ -8,3 +8,6 @@
 - SOAP expose "objects" (XML, WS-)
 - RPC expose functions (via a protocol, ex. TCP/UDP )
 - GraphQL expose object graph
+
+forward proxy (isp cache for internet)
+reverse proxy (proxy for *your* server)
