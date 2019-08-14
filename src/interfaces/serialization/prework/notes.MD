@@ -38,3 +38,6 @@ method of serializing structured data
 - data serialization: compact binary format or JSON (for easier debugging + web-based apps)
 - self-describing: file itself contains the schema
 - other: can be deserialized without a spec bc it's just JSON
+
+Protocol Buffer vs Thrift vs Avro
+- at this point Protocol Buffer + Thrift have similar offerings, choose based on language support
